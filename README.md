@@ -7,7 +7,7 @@ To proceed in MacOS only environment for now
 ## Usage
 run 
 ```bash
-./make_safe.sh <input_file> <output_file>
+./make_safe.sh <input_dir> <output_dir>
 ```
 
 
